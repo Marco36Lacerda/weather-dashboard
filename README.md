@@ -1,4 +1,4 @@
-# Project 2 — Weather Dashboard
+# Weather Dashboard
 
 A weather dashboard built as part of a structured frontend curriculum to learn REST APIs, async patterns, custom hooks, and TypeScript with real external data.
 
